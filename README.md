@@ -24,6 +24,9 @@ This app is designed to be your new study buddy! Users can study the answer to t
 - [x] User can also enter multiple choice answers when creating a card
 - [x] App is further styled and customized!
 
+
+## Lab 1
+
 ### This app is designed to be your new study buddy! Users can study the answer to the question prompted in the app. Users also have the ability to hide the answer choices to make studying more challenging.
 
 ### App Walk-though
