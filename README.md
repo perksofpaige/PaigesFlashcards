@@ -1,5 +1,29 @@
 ## Paige's Flashcards
 
+## Lab 2
+
+### App Description
+This app is designed to be your new study buddy! Users can study the answer to the question prompted in the app. Users also have the ability to hide the answer choices to make studying more challenging. Challenge yourself even more by creating/editing addtional study questions.
+
+### App Walk-though
+
+<img src="https://thumbs.gfycat.com/OddballKlutzyAmericanbulldog-size_restricted.gif" width=200><br>
+
+
+## Required
+- [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
+- [x] The 'Add Card Screen' has a cancel button to take the user back to the main screen
+- [x] User can enter and submit a Question and Answer through the 'Add Card Screen'
+- [x] User will see the card they just created on the main screen when they press the 'Save Button'
+- [x] Push your progress to GitHub!
+
+## Optional
+- [x] User can edit a card
+- [x] An error message is shown if the user doesn't enter both a Question and an Answer
+- [ ] A notification is shown if the card was created successfully
+- [x] User can also enter multiple choice answers when creating a card
+- [x] App is further styled and customized!
+
 ### This app is designed to be your new study buddy! Users can study the answer to the question prompted in the app. Users also have the ability to hide the answer choices to make studying more challenging.
 
 ### App Walk-though
