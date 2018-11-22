@@ -7,7 +7,7 @@ This app is designed to be your new study buddy! Users can study the answer to t
 
 ### App Walk-though
 
-<img src="https://gfycat.com/AstonishingTimelyBlowfish" width=200><br>
+<img src="https://giant.gfycat.com/AstonishingTimelyBlowfish.webm" width=200><br>
 
 
 ## Required
