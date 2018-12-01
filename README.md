@@ -1,11 +1,31 @@
 ## Paige's Flashcards
 
+## Lab 4
+
+### App Description
+This app is designed to be your new study buddy! Users can study the answer to the question prompted in the app. Users also have the ability to hide the answer choices to make studying more challenging. Challenge yourself even more by creating and editing addtional study questions.
+
+### App Walk-through
+
+<img src="https://gfycat.com/angelichappygoluckycaracal" width=200><br>
+
+## Required
+- [X] User sees a transition animation when going from the main screen to the add card screen.
+- [X] User sees a reveal animation when the flashcard is tapped and the answer is shown
+- [X] User sees flashcards animating in / out when the 'next' button is tapped
+
+## Optional
+- [X] Extra styling is added!
+- [ ] User sees a countdown timer for each question
+- [ ] User sees a 'card flip' animation when the card is tapped
+- [X] User sees a celebration animation with confetti when they answer a question correctly
+
 ## Lab 3
 
 ### App Description
 This app is designed to be your new study buddy! Users can study the answer to the question prompted in the app. Users also have the ability to hide the answer choices to make studying more challenging. Challenge yourself even more by creating and editing addtional study questions.
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://thumbs.gfycat.com/AstonishingTimelyBlowfish-size_restricted.gif" width=200><br>
 
@@ -25,7 +45,7 @@ This app is designed to be your new study buddy! Users can study the answer to t
 ### App Description
 This app is designed to be your new study buddy! Users can study the answer to the question prompted in the app. Users also have the ability to hide the answer choices to make studying more challenging. Challenge yourself even more by creating/editing addtional study questions.
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://thumbs.gfycat.com/OddballKlutzyAmericanbulldog-size_restricted.gif" width=200><br>
 
@@ -49,7 +69,7 @@ This app is designed to be your new study buddy! Users can study the answer to t
 
 ### This app is designed to be your new study buddy! Users can study the answer to the question prompted in the app. Users also have the ability to hide the answer choices to make studying more challenging.
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://media.giphy.com/media/mXFpn1KlFeayGMdzBv/giphy.gif" width=200><br>
 
