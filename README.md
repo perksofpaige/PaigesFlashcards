@@ -7,7 +7,7 @@ This app is designed to be your new study buddy! Users can study the answer to t
 
 ### App Walk-through
 
-<img src="https://gfycat.com/angelichappygoluckycaracal" width=200><br>
+<img src="https://thumbs.gfycat.com/FearfulFrayedAmericanredsquirrel-size_restricted.gif" width=200><br>
 
 ## Required
 - [X] User sees a transition animation when going from the main screen to the add card screen.
